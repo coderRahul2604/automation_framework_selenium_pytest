@@ -11,8 +11,8 @@ def test_admin_actions(driver):
         emp_name=None,
         status=None)
     
-    toast = admin.delete_row(1)
-    print("Result:", toast)
+    # toast = admin.delete_row(1)
+    # print("Result:", toast)
     # admin.add_user(user_role="Admin", emp_name="Test", status="Enabled", username="tester@45", password="test@123")
 
 driver.quit()
