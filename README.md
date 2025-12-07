@@ -6,8 +6,11 @@
   automation_framework_selenium_pytest
   
    objects/        # UI element locators
+   
    pages/          # Page Object Model classes
+   
    tests/          # Test cases
+   
    utils/          # Utilities (helpers, config, drivers)
   requirements.txt
 
